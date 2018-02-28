@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: starWarsRest-api
+Implementation-Version: 0.1.0
+Built-By: renan
+Implementation-Vendor-Id: org.springframework
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/starWarsRest
+ -api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
